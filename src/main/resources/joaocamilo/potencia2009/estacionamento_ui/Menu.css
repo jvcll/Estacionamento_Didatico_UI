@@ -5,6 +5,8 @@
     -fx-font-size: 15px;
     -fx-font-weight: bold;
     -fx-cursor: hand;
+    -fx-border-color: #000000;
+    -fx-border-radius: 300px;
 }
 
 .botaoMenu:hover {

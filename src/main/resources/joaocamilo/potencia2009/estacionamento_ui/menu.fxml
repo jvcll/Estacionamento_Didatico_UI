@@ -38,7 +38,7 @@
 
         <Region HBox.hgrow="ALWAYS" />
 
-        <Button prefWidth="100" styleClass="botaoMenu" stylesheets="@button.css" text="Acessar" />
+        <Button prefWidth="100" styleClass="botaoMenu" stylesheets="@Menu.css" text="Acessar" />
     </HBox>
 
     <!-- Registrar Saída -->
@@ -56,7 +56,7 @@
 
         <Region HBox.hgrow="ALWAYS" />
 
-        <Button prefWidth="100" styleClass="botaoMenu" stylesheets="@button.css" text="Acessar" />
+        <Button prefWidth="100" styleClass="botaoMenu" stylesheets="@Menu.css" text="Acessar" />
     </HBox>
 
     <!-- Vagas Livres -->
@@ -74,7 +74,7 @@
 
         <Region HBox.hgrow="ALWAYS" />
 
-        <Button prefWidth="100" styleClass="botaoMenu" stylesheets="@button.css" text="Acessar" />
+        <Button prefWidth="100" styleClass="botaoMenu" stylesheets="@Menu.css" text="Acessar" />
     </HBox>
 
     <!-- Sair -->
@@ -92,7 +92,7 @@
 
         <Region HBox.hgrow="ALWAYS" />
 
-        <Button prefWidth="100" styleClass="botaoMenu" stylesheets="@button.css" text="Sair" />
+        <Button prefWidth="100" styleClass="botaoMenu" stylesheets="@Menu.css" text="Sair" />
     </HBox>
 
 </VBox>

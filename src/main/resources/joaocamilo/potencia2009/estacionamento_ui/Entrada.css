@@ -1,0 +1,14 @@
+.botao {
+    -fx-background-color: white;
+    -fx-background-radius: 300px;
+    -fx-font-family: "Consolas";
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-cursor: hand;
+    -fx-border-color: #000000;
+    -fx-border-radius: 300px;
+}
+
+.botao:hover {
+    -fx-background-color: #D9D9D9;
+}
