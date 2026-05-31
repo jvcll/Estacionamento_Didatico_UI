@@ -1,0 +1,12 @@
+.botaoMenu {
+    -fx-background-color: white;
+    -fx-background-radius: 300;
+    -fx-font-family: "Consolas";
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-cursor: hand;
+}
+
+.botaoMenu:hover {
+    -fx-background-color: #D9D9D9;
+}
